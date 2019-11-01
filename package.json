@@ -70,7 +70,7 @@
         }
     },
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.18.1",
         "element-ui": "^2.3.6",
         "serialport": "^6.2.0",
         "vue": "^2.5.16",
